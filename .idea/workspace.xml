@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa1bf9f6-7a4d-4e65-a733-dbd13076b97c" name="Default" comment="" />
+    <list default="true" id="aa1bf9f6-7a4d-4e65-a733-dbd13076b97c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -74,8 +76,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="371" />
-    <option name="y" value="55" />
+    <option name="x" value="514" />
+    <option name="y" value="68" />
     <option name="width" value="1864" />
     <option name="height" value="968" />
   </component>
@@ -160,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503369642792</updated>
-      <workItem from="1503369644411" duration="1306000" />
+      <workItem from="1503369644411" duration="1897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1306000" />
+    <option name="totallyTimeSpent" value="1897000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,7 +179,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="371" y="55" width="1864" height="968" extended-state="0" />
+    <frame x="514" y="68" width="1864" height="968" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2595838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
